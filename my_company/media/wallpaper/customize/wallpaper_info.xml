@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<res>
+    <versionCode>1</versionCode>
+    <wallpaper_file_name_array>
+        <item>customized_wallpaper1</item>
+        <item>customized_wallpaper2</item>
+    </wallpaper_file_name_array>
+</res>

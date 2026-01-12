@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OplusSmartPhoneThemeInfo>
+  <Author>官方设计</Author>
+  <Summary>原神神里绫华定制软件主题</Summary>
+  <Description>亲爱的旅行者，不管是初次相遇，还是久别重逢，都感谢你选择一加 Ace 6T 原神神里绫华定制机。我们为你精心准备了一套神里绫华定制软件主题，邀请你和我们一起，领略独属于「白鹭公主」的优雅。换上这套主题，探索其中的满满定制细节吧！</Description>
+  <EditorVersion>16000</EditorVersion>
+  <LastModifyTime>2025-06-23 15:55:04</LastModifyTime>
+  <IsGlobalTheme>0</IsGlobalTheme>
+  <UUID>5B4FBA98B79C4B0685EC197028471428</UUID>
+  <PackageName>5B4FBA98B79C4B0685EC197028471428</PackageName>
+  <StandardVersion>1</StandardVersion>
+  <VersionName>1</VersionName>
+  <VersionCode>2</VersionCode>
+  <disableLockPictorial>1</disableLockPictorial>
+  <enableLauncherApplyEffect>1</enableLauncherApplyEffect>
+  <packageInfo>
+    <package name="com.android.launcher" version="001" />
+    <package name="com.android.systemui" version="001" />
+    <package name="com.coloros.alarmclock" version="002" />
+    <package name="icons" version="001" />
+    <package name="lockscreen" version="001" />
+    <package name="picture" version="001" />
+    <package name="wallpaper" version="001" />
+  </packageInfo>
+  <resolutionInfo>
+    <resolution>1920*1080</resolution>
+    <resolution>960*540</resolution>
+  </resolutionInfo>
+</OplusSmartPhoneThemeInfo>

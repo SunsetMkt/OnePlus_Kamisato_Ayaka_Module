@@ -1,0 +1,16 @@
+# build prop start
+ro.oplus.image.my_company.type=Genshin_OnePlus
+ro.oplus.image.my_company.date=2025-11-20 10:15:30
+ro.oplus.image.my_company.date.utc=1763604930
+ro.oplus.image.customize.name=Genshin
+ro.oplus.image.customize.type=Theme
+persist.sys.custombootanimpath=my_company/media/bootanimation/FHD_PLUS_2800
+ro.config.ringtone=Ringtone_Kamisato_Ayaka_1.ogg
+ro.config.ringtone_sim2=Ringtone_Kamisato_Ayaka_1.ogg
+ro.config.notification_sound=Notification_Kamisato_Ayaka_1.ogg
+ro.config.notification_sms=Sms_Kamisato_Ayaka_1.ogg
+ro.config.notification_sim2=Sms_Kamisato_Ayaka_1.ogg
+ro.config.alarm_alert=Alarm_Kamisato_Ayaka_1.ogg
+ro.vendor.oplus.market.name=一加 Ace 6T 原神神里绫华定制机
+ro.vendor.oplus.market.enname=OnePlus Ace 6T Genshin Impact
+ro.oplus.image.my_company.version=16.0.0.2025112010130634687838.a13aa81d

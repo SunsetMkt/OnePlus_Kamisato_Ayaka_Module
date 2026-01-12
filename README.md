@@ -6,6 +6,10 @@ OnePlus Ace 6T Genshin Impact Magisk Module for OnePlus Devices
 
 This is a Proof of Concept Module and is not intended for production use. It's very likely that it will not work as intended. Please read all code before actually using it.
 
+## Uninstall
+
+Delete the module and `/data/system/customize/sim_switch/region_switch_file` if it exists.
+
 ## Thanks to
 
 -   [天伞桜](https://www.coolapk1s.com/feed/69232169)
